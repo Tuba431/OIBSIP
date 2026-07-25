@@ -8,7 +8,7 @@
 | **Submitted By** | Tuba |
 | **File Name** | Tuba_Task1.ipynb |
 | **Submission Date** | July 2026 |
-| **Repository** | [OASIS](https://github.com/your-username/OASIS) |
+| **Repository** | [OIBSIP](https://github.com/your-username/OIBSIP) |
 
 ---
 
