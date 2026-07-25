@@ -1,36 +1,25 @@
-# OIBSIP - Data Science Projects Repository
+# 🏠 OASIS - Data Science Projects Repository
 
-## 📊 Project 1: EDA on Retail Sales Data
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.0.3-green)
+![NumPy](https://img.shields.io/badge/NumPy-1.24.3-purple)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-red)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-yellow)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+![Status](https://img.shields.io/badge/Status-In%20Progress-success)
 
-**Objective**: Perform exploratory data analysis on retail sales dataset
+## 🚀 Overview
 
-**Key Features**:
-- ✅ Data inspection and quality assessment
-- ✅ Descriptive statistics (mean, median, mode, standard deviation)
-- ✅ Time series analysis (monthly & quarterly trends)
-- ✅ Customer demographics (age groups, gender breakdown)
-- ✅ Product analysis (top 10 products, revenue by category)
-- ✅ Correlation heatmap of numerical variables
-- ✅ Custom visualizations for non-obvious insights
+This repository contains my data science projects completed as part of the OASIS program. Each task demonstrates professional-level data analysis and data cleaning skills using Python, Pandas, and visualization libraries.
 
-**Key Findings**:
-- Sales peak in November-December (holiday season)
-- Customers aged 25-44 are the largest segment
-- Balanced gender distribution (~50/50)
+### 📊 Completed Projects
 
-**View Notebook**: [Tuba_Task1.ipynb](https://github.com/your-username/OASIS/blob/main/Task1_EDA/Tuba_Task1.ipynb)
-
----
-
-## 🛠️ Tech Stack
-
-- **Python 3.8+**
-- **Pandas** - Data manipulation
-- **NumPy** - Numerical operations
-- **Matplotlib** - Data visualization
-- **Seaborn** - Statistical visualization
-- **Jupyter Notebook/Google Colab** - Development
+| Task | Project Name | Status |
+|------|--------------|--------|
+| Task 1 | EDA on Retail Sales Data | ✅ Complete |
+| Task 3 | Professional Data Cleaning Pipeline | ✅ Complete |
 
 ---
 
-## 📁 Repository Structure
+
