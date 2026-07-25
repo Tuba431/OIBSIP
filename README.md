@@ -1,4 +1,4 @@
-# OASIS - Data Science Projects Repository
+# OIBSIP - Data Science Projects Repository
 
 ## 📊 Project 1: EDA on Retail Sales Data
 
