@@ -4,10 +4,11 @@
 
 | Field | Details |
 |-------|---------|
+| **Level Number** | Level 1 |
 | **Task Number** | Task 1 |
 | **Submitted By** | Tuba |
 | **File Name** | Tuba_Task1.ipynb |
-| **Submission Date** | July 2026 |
+| **Submission Date** | 15 August 2026 |
 | **Repository** | [OIBSIP](https://github.com/your-username/OIBSIP) |
 
 ---
